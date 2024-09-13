@@ -1,3 +1,3 @@
 # CPTS101
 //Diana Manzanes
-//email
+//email: diana.manzanes@wsu.edu
